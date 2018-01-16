@@ -1,2 +1,2 @@
 # ChatRoom
-A ChatRoom Web Application
+A ChatRoom Web Application Based on WebSocket
